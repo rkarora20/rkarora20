@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohit Kumar
-- 👀 I’m interested in Learning Web Development
+- 👀 I’m Learning Web Development
 - 🌱 I’m currently learning CSS and Javascript
 - 💞️ I’m looking to collaborate on beginner level Projects
 - 📫 How to reach me: arora.rohit02@gmail.com
